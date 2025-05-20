@@ -1,6 +1,6 @@
 # ACEBit
 
-Extension for Yahboom ACEBit V1.0
+Extension for ACEBOTT AceBit V1.0
 
 ## License
 
